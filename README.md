@@ -1,5 +1,11 @@
 ## Hi There, I'm Jordy Moreno Arias 👋
 
+## About me:
+🔹 Experienced in .NET, C#, SQL Server, and MySQL.
+🔹 Developing RESTful APIs with ASP.NET Core and implementing JWT authentication.
+🔹 Exploring caching strategies, clean architecture, and microservices.
+🔹 Interested in security, performance optimization, and distributed systems.
+
 
 <!--
 **JordyMorenoArias/JordyMorenoArias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
