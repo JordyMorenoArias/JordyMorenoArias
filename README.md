@@ -1,4 +1,4 @@
-## Hi, I'm Jordy Moreno Arias 👋
+## Hi There, I'm Jordy Moreno Arias 👋
 
 ![backend-app-developer-horizontal-banner-vector-30366465 (1) (1)](https://github.com/user-attachments/assets/73bb3ab7-fdf2-4f4a-bdf9-745d00979c61)
 
