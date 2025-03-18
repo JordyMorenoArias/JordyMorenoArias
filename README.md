@@ -1,5 +1,8 @@
 ## Hi, I'm Jordy Moreno Arias 👋
 
+![backend-app-developer-horizontal-banner-vector-30366465 (1)](https://github.com/user-attachments/assets/14e7a77c-f43d-4e5f-9cc7-e4844ea9f6f3)
+
+
 <!--
 **JordyMorenoArias/JordyMorenoArias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
