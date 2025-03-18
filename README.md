@@ -8,7 +8,9 @@
 - Exploring **caching strategies, clean architecture, and microservices**.  
 - Interested in **security, performance optimization, and distributed systems**.  
 
-📌 Always learning, building, and optimizing!  
+📌 Always learning, building, and optimizing!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JordyMorenoArias)](https://github.com/JordyMorenoArias/github-readme-stats)
 
 
 
