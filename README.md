@@ -3,7 +3,7 @@
 ### About Me:  
 🚀 **Backend Developer passionate about building scalable and efficient systems.**  
 
-- Experienced in **.NET, C#, SQL Server, and MySQL**.  
+- Experienced in **.NET, C#, SQL Server, MySQL, Redis and Docker**.  
 - Developing **RESTful APIs with ASP.NET Core** and implementing **JWT authentication**.  
 - Exploring **caching strategies, clean architecture, and microservices**.  
 - Interested in **security, performance optimization, and distributed systems**.  
