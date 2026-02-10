@@ -17,6 +17,9 @@
 -->
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JordyMorenoArias)](https://github.com/Pranesh-2005/github-readme-stats)
 
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JordyMorenoArias&exclude_repo=github-readme-stats,Pranesh-2005.github.io)
+
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JordyMorenoArias&layout=compact)
 <!--
 **JordyMorenoArias/JordyMorenoArias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
