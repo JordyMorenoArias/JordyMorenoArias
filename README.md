@@ -10,16 +10,10 @@
 
 📌 Always learning, building, and optimizing!
 
-<!--
-<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=JordyMorenoArias&show_icons=true"/>
--->
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JordyMorenoArias&layout=compact)
--->
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JordyMorenoArias)](https://github.com/Pranesh-2005/github-readme-stats)
-
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JordyMorenoArias&exclude_repo=github-readme-stats,Pranesh-2005.github.io)
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=JordyMorenoArias&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JordyMorenoArias&layout=compact)
+
 <!--
 **JordyMorenoArias/JordyMorenoArias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
