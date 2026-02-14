@@ -1,14 +1,15 @@
 ## Hi there, I'm Jordy Moreno Arias 👋  
 
 ### About Me:  
-🚀 **Backend Developer passionate about building scalable and efficient systems.**  
+🚀 **Software Engineer focused on building scalable, secure, and production-ready applications across the full stack.**  
 
-- Experienced in **.NET, C#, SQL Server, MySQL, Redis and Docker**.  
-- Developing **RESTful APIs with ASP.NET Core** and implementing **JWT authentication**.  
-- Exploring **caching strategies, clean architecture, and microservices**.  
-- Interested in **security, performance optimization, and distributed systems**.  
+- Full-Stack development with **Angular, .NET, and Tailwind CSS**.  
+- Strong backend expertise designing **RESTful APIs with ASP.NET Core**, Clean Architecture, and JWT authentication.  
+- Experience with **SQL Server, MySQL, Redis, and Elasticsearch** for data and performance optimization.  
+- Cloud & DevOps experience using **Docker, GitHub Actions, and Azure** for CI/CD and deployments.  
+- Passionate about **software architecture, security, performance, and distributed systems**.  
 
-📌 Always learning, building, and optimizing!
+📌 I enjoy building maintainable systems that connect robust backends with modern, user-friendly frontends.
 
 [![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=JordyMorenoArias&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
