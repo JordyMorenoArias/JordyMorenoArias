@@ -1,30 +1,80 @@
-## Hi there, I'm Jordy Moreno Arias 👋  
+<h1 align="center">Jordy Moreno Arias</h1>
+<h3 align="center">Software Engineer • Full-Stack Developer (Angular + .NET)</h3>
 
-### About Me:  
-🚀 **Software Engineer focused on building scalable, secure, and production-ready applications across the full stack.**  
+<p align="center">
+🚀 Building scalable, secure, and production-ready applications across the full stack.
+</p>
 
-- Full-Stack development with **Angular, .NET, and Tailwind CSS**.  
-- Strong backend expertise designing **RESTful APIs with ASP.NET Core**, Clean Architecture, and JWT authentication.  
-- Experience with **SQL Server, MySQL, Redis, and Elasticsearch** for data and performance optimization.  
-- Cloud & DevOps experience using **Docker, GitHub Actions, and Azure** for CI/CD and deployments.  
-- Passionate about **software architecture, security, performance, and distributed systems**.  
+<p align="center">
+  <a href="https://www.linkedin.com/in/jordymorenoarias">
+    <img src="https://img.shields.io/badge/LinkedIn-JordyMoreno-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:yordimorenoarias.1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
-📌 I enjoy building maintainable systems that connect robust backends with modern, user-friendly frontends.
-                             ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JordyMorenoArias&layout=compact)                                 
+---
 
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=JordyMorenoArias&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast)
+## 👨‍💻 About Me
 
-<!--
-**JordyMorenoArias/JordyMorenoArias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Software Engineer specialized in building **end-to-end production systems** — from modern Angular frontends to scalable .NET backend architectures.
 
-Here are some ideas to get you started:
+- 🧠 Strong focus on **software architecture, performance, and clean code**
+- 🌐 Full-Stack development with **Angular, .NET, Tailwind CSS**
+- 🔐 Backend expertise in **ASP.NET Core, REST APIs, Clean Architecture, JWT**
+- 🗄️ Experience with **SQL Server, MySQL, Redis, Elasticsearch**
+- ☁️ Cloud & DevOps using **Docker, GitHub Actions, Azure (CI/CD & deployments)**
+- 🧩 Interested in **distributed systems, microservices, and system design**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 I build maintainable systems that scale from MVP to production.
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+Angular • TypeScript • JavaScript • RxJS • HTML • CSS • Tailwind CSS
+
+### ⚙️ Backend
+.NET • ASP.NET Core • C# • Entity Framework • REST APIs • Authentication & Authorization
+
+### 🗄️ Data & Performance
+SQL Server • MySQL • Redis • Elasticsearch • Caching • Query Optimization
+
+### ☁️ Cloud & DevOps
+Docker • GitHub Actions • Azure • CI/CD • Linux
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+    <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JordyMorenoArias&layout=compact" />
+</p>
+
+<p align="center">
+  <!-- <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=JordyMorenoArias&show_icons=true&theme=radical" /> -->
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/streak?username=JordyMorenoArias&theme=radical" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- Advanced Angular patterns & performance optimization  
+- Scalable backend architectures with .NET  
+- Microservices & distributed systems  
+- Becoming a high-impact Full-Stack Engineer  
+
+---
+
+## 📫 Let's Connect
+
+Open to remote opportunities, collaborations, and challenging engineering projects.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jordymorenoarias">
+    <img src="https://img.shields.io/badge/LinkedIn-JordyMoreno-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
