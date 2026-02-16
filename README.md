@@ -10,10 +10,9 @@
 - Passionate about **software architecture, security, performance, and distributed systems**.  
 
 📌 I enjoy building maintainable systems that connect robust backends with modern, user-friendly frontends.
+                             ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JordyMorenoArias&layout=compact)                                 
 
 [![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=JordyMorenoArias&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast)
-
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JordyMorenoArias&layout=compact)
 
 <!--
 **JordyMorenoArias/JordyMorenoArias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
