@@ -43,7 +43,7 @@ Angular • TypeScript • JavaScript • RxJS • HTML • CSS • Tailwind CSS
 SQL Server • MySQL • Redis • Elasticsearch • Caching • Query Optimization
 
 ### ☁️ Cloud & DevOps
-Docker • GitHub Actions • Azure • CI/CD • Linux
+Docker • GitHub Actions • Azure • CI/CD
 
 ---
 
