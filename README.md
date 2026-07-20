@@ -1,18 +1,24 @@
-<h1 align="center">Jordy Moreno Arias</h1>
-<h3 align="center">Software Engineer • Full-Stack Developer (Angular + .NET)</h3>
+<div align="center">
 
-<p align="center">
-🚀 Building scalable, secure, and production-ready applications across the full stack.
+# 👋 Hi, I'm Jordy Moreno Arias
+
+### Software Engineer • Backend & Full-Stack Developer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=2563EB&center=true&vCenter=true&width=800&lines=Backend+Engineer;Full-Stack+Developer;ASP.NET+Core+%26+NestJS;Angular+%26+React;Azure+Cloud+%26+Docker;Building+Scalable+Applications" />
+
+<p>
+Building scalable, secure and production-ready applications with modern technologies.
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jordymorenoarias">
-    <img src="https://img.shields.io/badge/LinkedIn-JordyMoreno-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:yordimorenoarias.1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/jordymorenoarias">
+<img src="https://img.shields.io/badge/LinkedIn-JordyMoreno-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:yordimorenoarias.1@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
 
 ---
 
